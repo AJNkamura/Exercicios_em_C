@@ -2,8 +2,9 @@
 
 Atividades realizadas na disciplina de Fundamentos de Programação no primeiro semestre do curso de Sistemas de Informação da UTFPR-Curitiba.
 A linguagem utilizada é C. Todos os exercícios abrangem pensamento computacional e raciocínio lógico objetivando aplicar e fixar conceitos de programação básicos e específicos correspondentes ao conteúdo da aula.
+Também estão fixados desafios e projetos mais elaborados entregues durante o semestre.
 
-Este repositório contém o arquivo .c de cada atividade e os enunciados e tópicos aplicados em suas resoluções são descritas abaixo:
+Este repositório contém o arquivo .c de cada atividade. Os enunciados e tópicos aplicados em suas resoluções são descritas abaixo:
 
 - Entrada e saída de dados, e variáveis 
 - Operados relacionais e boas práticas de programação
@@ -22,3 +23,10 @@ Este repositório contém o arquivo .c de cada atividade e os enunciados e tópi
 - Passagem de matrizes por parâmetro
 - Alocação dinâmica
 - Structs
+
+- Desafio
+- Desafio
+- Desafio
+- Desafio
+- Projeto
+- Projeto
